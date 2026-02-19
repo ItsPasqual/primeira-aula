@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <title> Minha primeira pagina</title>
+</body>
+</html>
+<h1> bem vindo meu nego</h1>
+<p> este é um paragrafo de exemplo. <p>
+    <a href="`https: / / www.google.com"> visite o google <a>
+        <ul>
+            <li>item 1</li>
+            <li>item 2</li>
+</ul>
+<forum>
+    <label for= "email" >email:</label>
+    <imput type= "email" id="email" name="email">
+        <button type= "submit">enviar</button>
+</form>
+</boty>
+</html>
